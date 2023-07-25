@@ -35,7 +35,7 @@ On the front-end side, I have knowledge of HTML, CSS, and JavaScript. I love fro
   # 💻 Tech Stack
   <div>
     <a href="https://github.com/anuraghazra/convoychat">
-      <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorSilverio&layout=donut&theme=bear" />
+      <img height=250 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSilverio&layout=compact&theme=bear" />
     </a>
   </div>
   
