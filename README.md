@@ -32,7 +32,7 @@ Na parte de front-end, tenho conhecimento de HTML, CSS e JavaScript. Adoro o fro
     </a>
 </div>
 
-  # 💻 Tech Stack
+  # 💻 Tech
   <div>
     <a href="https://github.com/anuraghazra/convoychat">
       <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorSilverio&layout=donut&theme=bear" />
