@@ -4,7 +4,8 @@ My name is Igor Silverio, and I am an 8th-semester student of computer engineeri
 
 With over 6 months of experience in the field, I have had the opportunity to work on various exciting projects and explore different technologies.
 
-# 🌐 Socials::
+
+# 🌐 Socials 
 
 <div> 
    <a href="https://www.linkedin.com/in/igor-santi%C3%A9llo-gon%C3%A7alves-silv%C3%A9rio-6500a8106/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -25,14 +26,15 @@ On the front-end side, I have knowledge of HTML, CSS, and JavaScript. I love fro
 # 📈 GitHub Stats:
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=IgorSilverio&theme=bear&show_icons=true" />
+      <img height=212 align="left" src="https://github-readme-stats.vercel.app/api?username=IgorSilverio&theme=bear&show_icons=true" />
     </a>
   <a href="https://github.com/anuraghazra/convoychat">
       <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IgorSilverio&theme=neon&hide_border=false&theme=bear" />
     </a>
 </div>
 
-  # 💻 Tech Stack
+   # 💻 Tech Stack
+   
   <div>
     <a href="https://github.com/anuraghazra/convoychat">
       <img height=250 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSilverio&layout=compact&theme=bear" />
@@ -45,4 +47,3 @@ On the front-end side, I have knowledge of HTML, CSS, and JavaScript. I love fro
 ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Saas](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
