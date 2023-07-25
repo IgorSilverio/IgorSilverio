@@ -1,10 +1,10 @@
-# 👋 Olá
+# 👋 Hi there
 
 My name is Igor Silverio, and I am an 8th-semester student of computer engineering, as well as a future passionate full-stack developer and technology enthusiast. Currently, I work as a junior IT technician.
 
 With over 6 months of experience in the field, I have had the opportunity to work on various exciting projects and explore different technologies.
 
-# 🌐 Social media:
+# 🌐 Socials::
 
 <div> 
    <a href="https://www.linkedin.com/in/igor-santi%C3%A9llo-gon%C3%A7alves-silv%C3%A9rio-6500a8106/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -32,7 +32,7 @@ On the front-end side, I have knowledge of HTML, CSS, and JavaScript. I love fro
     </a>
 </div>
 
-  # 💻 Tech
+  # 💻 Tech Stack
   <div>
     <a href="https://github.com/anuraghazra/convoychat">
       <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IgorSilverio&layout=donut&theme=bear" />
