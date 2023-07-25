@@ -1,7 +1,8 @@
-# 👋 Hi there
+# 👋 Olá
 
-I'm Laura Grassi, a passionate software developer and tech enthusiast. I currently work as a Senior Software Developer at XTEAM. </br>
-With over 8 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
+Sou Igor Silverio, um estudante do 8° semestre de engenharia da computação e um futuro desenvolvedora full stack apaixonado e entusiasta de tecnologia. Atualmente trabalho como Tecnico de informatica junio.
+
+Com mais de 6 meses de experiência na área, tive a oportunidade de trabalhar em vários projetos empolgantes e explorar diferentes tecnologias.
 
 # 🌐 Socials:
 
@@ -13,9 +14,11 @@ With over 8 years of experience in the field, I've had the opportunity to work o
  	<a href="https://www.twitch.tv/irgonha" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 
-# 🚀 Expertise
+# 🚀 Habilidade
 
-Meu foco principal é o desenvolvimento Full Stack, e estou embarcando na especialização em back-end usando PHP. Essa linguagem me permite criar aplicações web e sites dinâmicos, bem como realizar a criação e manutenção de bancos de dados, interagindo com sistemas de gerenciamento de banco de dados. Além disso, com o PHP é possível a implementação de lógica de negócios e funcionalidades do lado do servidor para garantir que as aplicações funcionem corretamente e atendam aos requisitos do projeto.
+Meu foco principal é o desenvolvimento Full Stack, e estou embarcando na especialização em back-end usando PHP. Essa linguagem me permite criar aplicações web e sites dinâmicos, bem como realizar a criação e manutenção de bancos de dados, interagindo com sistemas de gerenciamento de banco de dados. 
+
+Além disso, com o PHP é possível a implementação de lógica de negócios e funcionalidades do lado do servidor para garantir que as aplicações funcionem corretamente e atendam aos requisitos do projeto.
 
 Na parte de front-end, tenho conhecimento de HTML, CSS e JavaScript. Adoro o front-end porque me permite combinar minha criatividade com habilidades de resolução de problemas para oferecer experiências de usuário excepcionais.
 
