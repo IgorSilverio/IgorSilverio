@@ -1,10 +1,10 @@
 # 👋 Olá
 
-Sou Igor Silverio, um estudante do 8° semestre de engenharia da computação e um futuro desenvolvedora full stack apaixonado e entusiasta de tecnologia. Atualmente trabalho como Tecnico de informatica junio.
+My name is Igor Silverio, and I am an 8th-semester student of computer engineering, as well as a future passionate full-stack developer and technology enthusiast. Currently, I work as a junior IT technician.
 
-Com mais de 6 meses de experiência na área, tive a oportunidade de trabalhar em vários projetos empolgantes e explorar diferentes tecnologias.
+With over 6 months of experience in the field, I have had the opportunity to work on various exciting projects and explore different technologies.
 
-# 🌐 Socials:
+# 🌐 Social media:
 
 <div> 
    <a href="https://www.linkedin.com/in/igor-santi%C3%A9llo-gon%C3%A7alves-silv%C3%A9rio-6500a8106/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -14,13 +14,13 @@ Com mais de 6 meses de experiência na área, tive a oportunidade de trabalhar e
  	<a href="https://www.twitch.tv/irgonha" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 
-# 🚀 Habilidade
+# 🚀 Skills and knowledge
 
-Meu foco principal é o desenvolvimento Full Stack, e estou embarcando na especialização em back-end usando PHP. Essa linguagem me permite criar aplicações web e sites dinâmicos, bem como realizar a criação e manutenção de bancos de dados, interagindo com sistemas de gerenciamento de banco de dados. 
+My main focus is Full Stack development, and I am currently diving into specializing in back-end using PHP. This language allows me to create web applications and dynamic websites, as well as handle the creation and maintenance of databases while interacting with database management systems.
 
-Além disso, com o PHP é possível a implementação de lógica de negócios e funcionalidades do lado do servidor para garantir que as aplicações funcionem corretamente e atendam aos requisitos do projeto.
+Additionally, with PHP, I can implement business logic and server-side functionalities to ensure that applications work correctly and meet project requirements.
 
-Na parte de front-end, tenho conhecimento de HTML, CSS e JavaScript. Adoro o front-end porque me permite combinar minha criatividade com habilidades de resolução de problemas para oferecer experiências de usuário excepcionais.
+On the front-end side, I have knowledge of HTML, CSS, and JavaScript. I love front-end development because it allows me to combine my creativity with problem-solving skills to deliver exceptional user experiences.
 
 # 📈 GitHub Stats:
 <div>
