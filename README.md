@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-My name is Igor Silverio, and I am an 89th-semester student of computer engineering, soon a future full-stack developer passionate and technology enthusiast. I currently work as a junior IT technician.
+My name is Igor Silverio, and I am an 9th-semester student of computer engineering, soon a future full-stack developer passionate and technology enthusiast. I currently work as a junior IT technician.
 
 With over 11 months of experience in the field, I have had the opportunity to work on various exciting projects and explore different technologies.
 
