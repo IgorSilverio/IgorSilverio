@@ -1,35 +1,35 @@
-👋 Olá!  
-Eu sou **Igor Silvério**, formado em **Engenharia da Computação** e em transição de carreira para a área de desenvolvimento. Atualmente, estou em busca de oportunidades como **Desenvolvedor**, com foco em aprender e me especializar em **JavaScript** tanto no **front-end** quanto no **back-end**.
+👋 Olá! Sou **Igor Silvério**, um entusiasta de tecnologia em transição para a área de desenvolvimento. Formado em Engenharia da Computação, estou focado em me tornar um desenvolvedor **Full-Stack**, com especial interesse em **JavaScript** e suas aplicações no front-end e back-end.
 
 ### 🌐 Redes Sociais  
 <div> 
    <a href="https://www.linkedin.com/in/igor-santi%C3%A9llo-gon%C3%A7alves-silv%C3%A9rio-6500a8106/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.facebook.com/igor.silverio.714/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/igor.silverioo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/Igor_silverioo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/irgonha" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/profile.php?id=61572426718010" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/htpps.igors/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://x.com/Igor_santiello" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/igor_silverioo" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 
-### 🚀 Habilidades Atuais & Caminho de Aprendizado  
-- **Front-End:** Aprendendo **HTML**, **CSS** e **JavaScript** para criar interfaces de usuário responsivas e interativas.  
-- **Back-End:** Explorando **Node.js** e **Express** para desenvolver aplicações do lado do servidor.  
-- **Banco de Dados:** Familiarizado com **MySQL** e **SQL Server** para armazenamento e recuperação de dados.  
-- **Ferramentas & Plataformas:** Utilizando **GitHub** para controle de versão e **Trello** para gerenciamento de projetos.  
+### 🚀 Habilidades & Aprendizado  
+- **Front-End:** HTML, CSS e JavaScript para interfaces responsivas e interativas.  
+- **Back-End:** Explorando Node.js e Express para aplicações do lado do servidor.  
+- **Banco de Dados:** Familiarizado com MySQL e SQL Server.  
+- **Ferramentas:** GitHub para versionamento e Trello para gestão de projetos.  
 
-### 💡 No Que Estou Focado  
+### 💡 Foco Atual  
 Atualmente, estou dedicando meu tempo a:  
 - **Dominar os Fundamentos do JavaScript:** Entendendo conceitos como variáveis, funções, loops e manipulação do DOM.  
 - **Explorar Desenvolvimento Full-Stack:** Aprendendo a construir aplicações completas, desde o front-end até o back-end.  
 - **Criar Pequenos Projetos:** Desenvolvendo aplicações simples para praticar e solidificar meu conhecimento.  
-
-### 💡 Projetos & Contribuições  
-- **Projeto BEXT (Pesquisa Científica):** Contribuí para análise de dados e resolução de problemas em um projeto de pesquisa na UNISAL.  
-- **Hackathon UNIMED Campinas:** Colaborei com uma equipe para desenvolver soluções inovadoras na área da saúde, com foco em usabilidade e impacto social.  
-- **Automação com Python:** Desenvolvi scripts usando **Selenium** para otimizar processos internos e melhorar a eficiência.  
-
 ### 🎯 Objetivos  
-Meu objetivo é **evoluir consistentemente** e me tornar um desenvolvedor JavaScript proficiente, capaz de criar aplicações completas e escaláveis. Estou animado para aprender, cometer erros e crescer por meio de projetos práticos e colaboração. Acredito que, com dedicação e prática, poderei contribuir para projetos significativos no futuro.  
+Meu objetivo é me tornar um desenvolvedor **JavaScript** proficiente, capaz de criar aplicações completas e escaláveis. Estou comprometido em aprender, evoluir e contribuir para projetos significativos.  
 
+### 💡 Projetos Destacados  
+- **EHR - Sistema de Saúde (C#):** Gerenciamento seguro de históricos médicos e consultas.  
+- **Finance App:** Aplicativo para controle de despesas e receitas com interface intuitiva.  
+- **IntegraTextilMod:** Sistema de integração para otimização de processos na indústria têxtil.  
+- **Disparador de Mensagens (Python):** Automação de envio de mensagens via WhatsApp.  
+- **Hackathons:** Soluções inovadoras em saúde e tecnologia desenvolvidas em equipe.
+- 
 ---
 
 # 📈 GitHub Stats:
@@ -58,7 +58,3 @@ Meu objetivo é **evoluir consistentemente** e me tornar um desenvolvedor JavaSc
 ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Saas](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
----
-
-Vamos nos conectar e crescer juntos! 🚀
