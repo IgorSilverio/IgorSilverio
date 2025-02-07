@@ -61,13 +61,3 @@ Meu objetivo é me tornar um desenvolvedor **JavaScript** proficiente, capaz de 
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/csharp-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 </div>
-
----
-
-<p align="center">
-  <img src="https://github.com/IgorSilverio/IgorSilverio/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/IgorSilverio/IgorSilverio/main/doom-fire.gif" alt="Doom Fire Animation" />
-</p>
