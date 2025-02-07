@@ -60,20 +60,14 @@ Meu objetivo é me tornar um desenvolvedor **JavaScript** proficiente, capaz de 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/csharp-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </div>
 
 ---
 
-### 🐍 Cobrinha das Contribuições
-![Snake animation](https://github.com/IgorSilverio/IgorSilverio/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/IgorSilverio/IgorSilverio/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
----
-
-### 🔥 Fogo do Doom (Contribuições)
-![Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=IgorSilverio&theme=github-dark&hide_border=true&area=true)
-
----
-
-Vamos nos conectar e crescer juntos! 🚀
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IgorSilverio/IgorSilverio/main/doom-fire.gif" alt="Doom Fire Animation" />
+</p>
